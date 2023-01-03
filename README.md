@@ -11,3 +11,11 @@ This is a visual pack the changes a verity of diffrent things, such as.
 
 # Thanks for downloading.
 Thanks for downloading my resources, if you seem to like them, make sure to join the discord to see any new resource that get released in the future.
+
+<div align=center>
+
+### Resource Infromation
+![Discord](https://img.shields.io/badge/vCheck-SSV%20Version-blue?style=for-the-badge&logo=github)
+![Discord](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=fivem)
+
+<div>
